@@ -1,0 +1,48 @@
+*{ 
+margin: 0px;
+padding: 0px;
+}   
+.botonera {
+
+display: flex;
+align-items: center;
+padding-top: 20px;
+padding-left: 5%;
+padding-right: 5%;
+font-family: sans-serif;
+background-color: rgb(61, 58, 58);
+}
+ul li{
+    display: inline-block;
+    padding: 20px;
+
+}   
+
+a {
+color: antiquewhite;
+text-decoration: none;
+}   
+
+
+   
+.apertura {
+background-image: url(Img/imgppalpagweb.jpg);
+width: 1300px;
+height: 604px;
+
+}  
+.textoppal {
+font-family: sans-serif;
+font-size: 50px;
+padding-top: 80px;
+padding-left: 20px;
+color: antiquewhite;
+}
+.bajada {
+    font-family: sans-serif;
+    font-size: 30px;
+    padding-left: 67px;
+    color: antiquewhite;
+}    
+
+ 
